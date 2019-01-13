@@ -1,2 +1,2 @@
 # natekomodo.github.io
-Github page
+It's a Github page, nothing to see here
